@@ -1,0 +1,6 @@
+{
+  "name": "太赫兹器件参数与万能工具箱",
+  "description": "一个用于计算太赫兹调制器件关键参数、导入数据和图片、自动计算平均调制深度、插入损耗等指标并生成PPT报告的万能工具箱，支持打包为Windows桌面应用。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
